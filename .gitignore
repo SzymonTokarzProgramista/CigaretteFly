@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded upstream code, datasets and experiment artifacts
+/vendor/
+/data/
+/results/
+/.cache/
