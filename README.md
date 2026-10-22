@@ -5,6 +5,12 @@ spiking connectome Shiu/FlyWire i plastyczność KC→MBON bramkowana PAM.
 Abstrakcyjny obiekt `cigarette` emituje sztuczny zapach; kontakt zwiększa wirtualne
 nicotine, które pobudza PAM. Porównujemy A (PAM) z B (bez wymuszonego PAM).
 
+## Nagranie symulacji
+
+[Obejrzyj film z symulacji 3D muchy (MP4, 60 sekund)](docs/media/A_LIVE_0.mp4).
+
+## Uruchomienie
+
 [Instalacja, uruchomienie, test bez uczenia i ograniczenia](experiments/smoking/README.md).
 
 ```bash
