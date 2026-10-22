@@ -7,7 +7,9 @@ nicotine, które pobudza PAM. Porównujemy A (PAM) z B (bez wymuszonego PAM).
 
 ## Nagranie symulacji
 
-[Obejrzyj film z symulacji 3D muchy (MP4, 60 sekund)](docs/media/A_LIVE_0.mp4).
+![Animowany podgląd symulacji 3D muchy — pełne 60 sekund nagrania](docs/media/A_LIVE_0.gif)
+
+Animowany podgląd odtwarza się bezpośrednio w README. [Nagranie MP4 w pełnej jakości (60 sekund)](docs/media/A_LIVE_0.mp4).
 
 ## Uruchomienie
 
